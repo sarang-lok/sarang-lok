@@ -18,8 +18,8 @@
   
    `Pursuing a master's degree from Pune University.`
 
-- 📫 How to reach me: 
-## 🔗 Links
+## 📫 How to reach me: 
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saranglokhande.me/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-lokhande-bb7a19191/)
 [![facebook](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarang_246/?hl=en)
