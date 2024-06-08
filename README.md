@@ -12,9 +12,10 @@ With 2 years of experience as an Associate Cloud Engineer focusing on Azure clou
   As an Associate Cloud Engineer in Simplify Healthcare
 
 
-## 🌱 I’m currently Studying...
+## 🌱 Done by academics ...
   
-   `Pursuing a master's degree from Pune University.`
+   `master's degree from Pune University. -2022`
+   `Bachelor's degree from Nagpur University. -2019` 
 
 ## 📫 How to reach me: 
 
