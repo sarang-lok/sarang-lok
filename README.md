@@ -7,13 +7,12 @@
 
 With 2 years of experience as an Associate Cloud Engineer focusing on Azure cloud environments, I have cultivated expertise in resource provisioning, creating, monitoring, and cost optimization. My accomplishments include effectively optimizing cloud resources to reduce operational expenses while maintaining peak performance. Specialize in implementing efficient resource allocation strategies, utilizing monitoring tools to identify and resolve performance bottlenecks, and implementing cost-saving measures like rightsizing instances and leveraging Azure Reserved Instances.
 
-
 ## 🔭 I’m currently working on ...
 
-  AI based Project Named as: `AI based crop disease detaction using mobile.`
+  As an Associate Cloud Engineer in Simplify Healthcare
 
 
-## 🌱 I’m currently Studing ...
+## 🌱 I’m currently Studying...
   
    `Pursuing a master's degree from Pune University.`
 
