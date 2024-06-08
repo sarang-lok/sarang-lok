@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 
-  Pursuing Master degree in Computer Application(MCA) from Pune. Experience with Cyber Cell and 
-  collector Office Nagpur as an intern also have has done some Hands-on projects like e-commerce management system and filter web content using cloud infrastructure. Achieved some global certificates from Google, Microsoft, AWS, CertiProf, VMware IT Academy.
+With 2 years of experience as an Associate Cloud Engineer focusing on Azure cloud environments, I have cultivated expertise in resource provisioning, creating, monitoring, and cost optimization. My accomplishments include effectively optimizing cloud resources to reduce operational expenses while maintaining peak performance. Specialize in implementing efficient resource allocation strategies, utilizing monitoring tools to identify and resolve performance bottlenecks, and implementing cost-saving measures like rightsizing instances and leveraging Azure Reserved Instances.
 
 
 ## 🔭 I’m currently working on ...
